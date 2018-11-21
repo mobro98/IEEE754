@@ -1,3 +1,11 @@
+
+//IEEE 754 SP Converter
+
+//  Created by Mordechai Bronfin on 11/19/18.
+//  Wayne State University CSC 3100
+//  Copyright © 2018 Mordechai Bronfin. All rights reserved.
+
+
 #include<stdio.h>
 #include <stdlib.h>
 
